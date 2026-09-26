@@ -44,5 +44,5 @@ This project extracts linguistic, structural, and heuristic features from raw em
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/phishing-email-detection.git](https://github.com/KatikaVeronica/phishing-email-detection.git)
+   git clone https://github.com/KatikaVeronica/phishing-email-detection.git)
    cd phishing-email-detection
